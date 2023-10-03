@@ -16,14 +16,17 @@
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![XML](https://img.shields.io/badge/xml-FF9900?style=for-the-badge&logo=xml&logoColor=white)](https://en.wikipedia.org/wiki/XML)
 [![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
+
 ### Database
 [![Links Platform](https://img.shields.io/badge/linksplatform-4479A1?style=for-the-badge&logo=linksplatform&logoColor=white)](https://www.linksplatform.com)
+[![Deep](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
+[![Mongo](https://img.shields.io/badge/mongo-118e4b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Tarantool](https://img.shields.io/badge/tarantool-4479A1?style=for-the-badge&logo=tarantool&logoColor=white)](https://www.tarantool.io/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-
 ### Platform
-[![IOS](https://img.shields.io/badge/android-f05139?style=for-the-badge&logo=android&logoColor=white)](https://www.apple.com/de/ios)
+[![IOS](https://img.shields.io/badge/ios-f05139?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/de/ios)
 [![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 [![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
