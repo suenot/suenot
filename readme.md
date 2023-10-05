@@ -35,7 +35,6 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![NuGet](https://img.shields.io/badge/nuget-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org)
-[![Conan](https://img.shields.io/badge/conan-004880?style=for-the-badge&logo=conan&logoColor=white)]([https://www.nuget.org](https://conan.io/))
 
 ### Other
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
