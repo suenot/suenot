@@ -51,3 +51,5 @@
 <h1>📊 Statistics:</h2>
 
 ![Suenot's GitHub stats](https://github-readme-stats.vercel.app/api?username=suenot)
+
+[![](https://visitcount.itsvg.in/api?id=suenot&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
