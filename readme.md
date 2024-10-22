@@ -15,7 +15,6 @@
 
 ### Database
 [![Deep Foundation](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
-[![Links Platform](https://img.shields.io/badge/linksplatform-4479A1?style=for-the-badge&logo=linksplatform&logoColor=white)](https://www.linksplatform.com)
 [![Mongo](https://img.shields.io/badge/mongo-118e4b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Tarantool](https://img.shields.io/badge/tarantool-4479A1?style=for-the-badge&logo=tarantool&logoColor=white)](https://www.tarantool.io/)
@@ -31,6 +30,7 @@
 
 ### Frontend
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue&logoColor=black)](https://vuejs.org)
 
 <h1>📪 Socials:</h2>
 
