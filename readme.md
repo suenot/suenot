@@ -10,8 +10,9 @@
 ### Languages basics
 [![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Haskell](https://img.shields.io/badge/haskell-8b4b87?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.haskell.org/)
-[![Rust](https://img.shields.io/badge/rust-0d7261?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.rust-lang.org/)
+[![Haskell](https://img.shields.io/badge/haskell-8b4b87?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+[![Rust](https://img.shields.io/badge/rust-0d7261?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Golang](https://img.shields.io/badge/go-0095D5?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 ### Database
 [![Deep Foundation](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
