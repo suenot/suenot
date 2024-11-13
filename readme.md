@@ -32,6 +32,8 @@
 ### Frontend
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue&logoColor=black)](https://vuejs.org)
+[![Angular](https://img.shields.io/badge/angular-ff0000?style=for-the-badge&logo=vue&logoColor=black)](https://angular.dev/)
+[![Svelte](https://img.shields.io/badge/svelte-f96743?style=for-the-badge&logo=vue&logoColor=black)](https://svelte.dev/)
 
 <h1>📪 Socials:</h2>
 
