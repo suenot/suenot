@@ -4,15 +4,16 @@
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Golang](https://img.shields.io/badge/go-0095D5?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Swift](https://img.shields.io/badge/swift-f05139?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 
 ### Languages basics
+[![Rust](https://img.shields.io/badge/rust-0d7261?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Lua](https://img.shields.io/badge/lua-02027d?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Haskell](https://img.shields.io/badge/haskell-8b4b87?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
-[![Rust](https://img.shields.io/badge/rust-0d7261?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Golang](https://img.shields.io/badge/go-0095D5?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![C++](https://img.shields.io/badge/cpp-004482?style=for-the-badge&logo=cpp&logoColor=white)](https://isocpp.org/)
 
 ### Database
 [![Deep Foundation](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
