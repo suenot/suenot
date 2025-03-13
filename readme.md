@@ -13,7 +13,7 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Lua](https://img.shields.io/badge/lua-02027d?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Haskell](https://img.shields.io/badge/haskell-8b4b87?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
-[![C++](https://img.shields.io/badge/cpp-004482?style=for-the-badge&logo=cpp&logoColor=white)](https://isocpp.org/)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Database
 [![Deep Foundation](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
