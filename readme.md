@@ -48,3 +48,5 @@
 ![Suenot's GitHub stats](https://github-readme-stats.vercel.app/api?username=suenot)
 
 [![](https://visitcount.itsvg.in/api?id=suenot&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=suenot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
