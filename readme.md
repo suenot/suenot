@@ -45,7 +45,7 @@
 
 <h1>📊 Statistics:</h2>
 
-![Suenot's GitHub stats](https://github-readme-stats.vercel.app/api?username=suenot)
+[![Suenot's GitHub stats](https://github-readme-stats-ebon-alpha-83.vercel.app/api?username=suenot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=suenot&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
