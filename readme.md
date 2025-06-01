@@ -35,6 +35,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suenot)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/suenot)
 [![Stack Exchange](https://img.shields.io/badge/stack_exchange-1E5297?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://stackoverflow.com/users/937966/eugen-soloviov)
+[![Habr](https://img.shields.io/badge/habr-2CA5E0?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/suenot/)
 
 <h1>📊 Statistics:</h2>
 
