@@ -40,6 +40,8 @@
 [![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue&logoColor=black)](https://vuejs.org)
 [![Angular](https://img.shields.io/badge/angular-ff0000?style=for-the-badge&logo=vue&logoColor=black)](https://angular.dev/)
 [![Svelte](https://img.shields.io/badge/svelte-f96743?style=for-the-badge&logo=vue&logoColor=black)](https://svelte.dev/)
+[![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 
 <h1>📪 Socials:</h2>
 
