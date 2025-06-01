@@ -22,10 +22,16 @@
 [![Tarantool](https://img.shields.io/badge/tarantool-4479A1?style=for-the-badge&logo=tarantool&logoColor=white)](https://www.tarantool.io/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Hasura](https://img.shields.io/badge/hasura-3970fd?style=for-the-badge&logo=postgresql&logoColor=white)](https://hasura.io/)
-[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![QuestDB](https://img.shields.io/badge/questdb-FF6B35?style=for-the-badge&logo=questdb&logoColor=white)](https://questdb.com/)
 [![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=white)](https://duckdb.org/)
 [![Parquet](https://img.shields.io/badge/parquet-326CE5?style=for-the-badge&logo=apache&logoColor=white)](https://parquet.apache.org/)
+
+### API
+[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io/)
+[![REST](https://img.shields.io/badge/REST-009639?style=for-the-badge&logo=restapi&logoColor=white)](https://restfulapi.net/)
+[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![FIX Protocol](https://img.shields.io/badge/FIX%20Protocol-1E3A8A?style=for-the-badge&logo=fix&logoColor=white)](https://www.fixtrading.org/)
 
 ### Frontend
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
