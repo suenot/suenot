@@ -15,7 +15,6 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Haskell](https://img.shields.io/badge/haskell-8b4b87?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
 
-
 ### Database
 [![Deep Foundation](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
 [![Mongo](https://img.shields.io/badge/mongo-118e4b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -24,12 +23,6 @@
 [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Hasura](https://img.shields.io/badge/hasura-3970fd?style=for-the-badge&logo=postgresql&logoColor=white)](https://hasura.io/)
 [![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://img.icons8.com/color/344/graphql.png)
-
-### Platform
-[![IOS](https://img.shields.io/badge/ios-f05139?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/de/ios)
-[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
-[![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 ### Frontend
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
