@@ -18,8 +18,9 @@
 ### Database
 [![Deep Foundation](https://img.shields.io/badge/deep-foundation-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
 [![Mongo](https://img.shields.io/badge/mongo-118e4b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Tarantool](https://img.shields.io/badge/tarantool-4479A1?style=for-the-badge&logo=tarantool&logoColor=white)](https://www.tarantool.io/)
+[![Tarantool](https://img.shields.io/badge/Tarantool-FF6B35?style=for-the-badge&logo=database&logoColor=white)](https://www.tarantool.io/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Hasura](https://img.shields.io/badge/hasura-3970fd?style=for-the-badge&logo=postgresql&logoColor=white)](https://hasura.io/)
 [![QuestDB](https://img.shields.io/badge/questdb-FF6B35?style=for-the-badge&logo=questdb&logoColor=white)](https://questdb.com/)
