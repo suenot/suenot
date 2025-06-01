@@ -16,7 +16,7 @@
 [![Haskell](https://img.shields.io/badge/haskell-8b4b87?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
 
 ### Database
-[![Deep Foundation](https://img.shields.io/badge/deep-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
+[![Deep Foundation](https://img.shields.io/badge/deep-foundation-4479A1?style=for-the-badge&logo=deep&logoColor=white)](https://deep.foundation/)
 [![Mongo](https://img.shields.io/badge/mongo-118e4b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Tarantool](https://img.shields.io/badge/tarantool-4479A1?style=for-the-badge&logo=tarantool&logoColor=white)](https://www.tarantool.io/)
