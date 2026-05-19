@@ -7,7 +7,7 @@ Building trading systems, HFT bots, and open source tools for 30+ crypto exchang
 - 📧 [suenot@gmail.com](mailto:suenot@gmail.com)
 - 💬 Telegram: [@suenot](https://t.me/suenot)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suenot/)
-- 💰 Looking for: remote roles from **$5,800/month** — Fullstack / DevOps / AlgoTrading
+- 💰 Looking for: **Open to competitive offers** — Fullstack / DevOps / AlgoTrading / HFT
 
 ---
 
