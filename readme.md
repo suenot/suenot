@@ -21,10 +21,10 @@ Building trading systems, HFT bots, and open source tools for 30+ crypto exchang
 
 | Metric | Result |
 |--------|--------|
-| HFT Frontrunner | 3-7ms order placement, 10-50ms WebSocket |
+| HFT Frontrunner | 1ms order placement latency |
 | Exchange Adapters | 30+ crypto exchanges connected |
 | Open Source Trading Platform | [profitmaker](https://github.com/suenot/profitmaker) — 350+ stars |
-| Exchange Monitoring | [Marketmaker.cc](https://github.com/suenot) — 60+ exchanges |
+| Algotrading Research | [Marketmaker.cc](https://marketmaker.cc) — 70+ research articles |
 
 ---
 
