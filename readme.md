@@ -1,3 +1,33 @@
+<h1>👋 Hi, I'm Eugen Soloviov</h1>
+
+**Fullstack | DevOps | Algotrading Developer**
+
+Building trading systems, HFT bots, and open source tools for 30+ crypto exchanges since 2017.
+
+- 📧 [suenot@gmail.com](mailto:suenot@gmail.com)
+- 💬 Telegram: [@suenot](https://t.me/suenot)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suenot/)
+- 💰 Looking for: remote roles from **$5,800/month** — Fullstack / DevOps / AlgoTrading
+
+---
+
+<h2>🚀 What I Do</h2>
+
+- **Algorithmic Trading** — Inter-exchange arbitrage, HFT frontrunners (3-7ms), trend-following, scalping across 30+ exchanges
+- **Fullstack Development** — React/Vue/Svelte + Node.js/Python/Golang/Rust
+- **DevOps** — Kubernetes, Terraform, Docker, AWS infrastructure for low-latency systems
+
+<h3>🏆 Highlights</h3>
+
+| Metric | Result |
+|--------|--------|
+| HFT Frontrunner | 3-7ms order placement, 10-50ms WebSocket |
+| Exchange Adapters | 30+ crypto exchanges connected |
+| Open Source Trading Platform | [profitmaker](https://github.com/suenot/profitmaker) — 350+ stars |
+| Exchange Monitoring | [Marketmaker.cc](https://github.com/suenot) — 60+ exchanges |
+
+---
+
 <h1>🛠️ Tools I use:</h2>
 
 ### Languages
@@ -29,6 +59,14 @@
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
+### DevOps & Infrastructure
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Argo CD](https://img.shields.io/badge/argo%20cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/)
+[![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
 ### API
 [![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io/)
@@ -48,6 +86,7 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suenot)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/suenot)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suenot/)
 [![Stack Exchange](https://img.shields.io/badge/stack_exchange-1E5297?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://stackoverflow.com/users/937966/eugen-soloviov)
 [![Habr](https://img.shields.io/badge/habr-2CA5E0?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/suenot/)
 
