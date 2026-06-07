@@ -2,7 +2,7 @@
 
 **Fullstack | DevOps | Algotrading Developer**
 
-Building trading systems, HFT bots, and open source tools for 30+ crypto exchanges since 2017.
+Building trading systems, HFT bots, and open source tools since 2017.
 
 - 📧 [suenot@gmail.com](mailto:suenot@gmail.com)
 - 💬 Telegram: [@suenot](https://t.me/suenot)
