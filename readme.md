@@ -13,7 +13,7 @@ Building trading systems, HFT bots, and open source tools for 30+ crypto exchang
 
 <h2>🚀 What I Do</h2>
 
-- **Algorithmic Trading** — Inter-exchange arbitrage, HFT frontrunners (3-7ms), trend-following, scalping across 30+ exchanges
+- **Algorithmic Trading** — Inter-exchange arbitrage, HFT frontrunners, trend-following, scalping across 30+ exchanges
 - **Fullstack Development** — React/Vue/Svelte + Node.js/Python/Golang/Rust
 - **DevOps** — Kubernetes, Terraform, Docker, AWS infrastructure for low-latency systems
 
